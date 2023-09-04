@@ -1,0 +1,56 @@
+.titleDiv{
+    text-align: center;
+  }
+  .subtitle{
+      color: #f9004d;
+      display: block;
+      letter-spacing: 1px;
+      line-height: 14px;
+    }
+    .expTitle{
+      color: #c4cfde;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 10px;
+      margin-top: 15px;
+      font-size: 40px;
+    }
+    .img{
+      width: 300px;
+      height: 250px;
+    } 
+    .date {
+      background-color: #545961;
+      border-radius: 20px;
+      color: #c4cfde;
+      font-size: 14px;
+      padding: 4px 8px;
+      width: fit-content;
+    }
+    .perc {
+      font-size: 14px;
+      padding: 6px 10px;
+      width: fit-content;
+    }   
+    .cname{
+      color: #c4cfde;
+      font-size: 26px;
+      font-weight: 500;
+      margin-top: 10px;
+    }
+   .jobTitle {
+      color: #c4cfde;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 1.4;
+      margin-bottom: 7px;
+      margin-top: 15px;
+    }
+    .desc{
+      color: #878e99;
+      font-size: 16px;
+    }
+    .spaceBtn{
+      display: flex;
+      justify-content: space-between;
+    }

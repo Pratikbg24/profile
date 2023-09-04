@@ -1,0 +1,10 @@
+.App{
+    display: block;
+    background-color: #212428;
+    color: #878e99;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    height: calc(150vh - 75px) !important;
+  }
+
+ 
